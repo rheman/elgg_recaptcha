@@ -15,7 +15,7 @@
 		}
 	],
 	"extra": {
-		"installer-name": "pessek_location"
+		"installer-name": "elgg_recaptcha"
 	},
     	"require": {
 		"php": ">=7.1",
